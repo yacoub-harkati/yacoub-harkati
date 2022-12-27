@@ -9,6 +9,7 @@
 
 -   ⚡ Fun fact **I'm secretly Spider Man but don't tell anyone else**
 
+
 ### Programming Languages
 
 <p align="left">
@@ -75,8 +76,8 @@
 
 ### My GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yacoub-harkati&show_icons=true&locale=en&layout=compact" alt="yacoub-harkati" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yacoub-harkati&show_icons=true&locale=en&layout=compact" alt="yacoub-harkati" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yacoub-harkati&show_icons=true&locale=en" alt="yacoub-harkati" /></p>
 
-<p ><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yacoub-harkati&" alt="yacoub-harkati" /></p>
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yacoub-harkati&" alt="yacoub-harkati" /></p>
