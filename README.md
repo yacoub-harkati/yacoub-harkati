@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://media.tenor.com/qA9u4ETE66MAAAAS/hello-there-kenobi.gif" width="50%"/></p>
 
-<h1 align="center"> I'm Yacoub A Full-Stack developer from Morocco</h1>
+<h1 align="center"> I'm Yacoub a Full-Stack developer from Morocco</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yacoub-harkati&label=Profile%20views&color=0e75b6&style=flat" alt="yacoub-harkati" /> </p>
 
 -   💬 Ask me about **React.js, Next.js, State Management, Back-end Dev & Solana**
