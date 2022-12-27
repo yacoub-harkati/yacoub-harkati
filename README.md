@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yacoub-harkati&label=Profile%20views&color=0e75b6&style=flat" alt="yacoub-harkati" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yacoub-harkati" alt="yacoub-harkati" /></a> </p>
-
 - 💬 Ask me about **React.js, Next.js, State Management, Back-end Dev & Solana**
 
 - 📫 How to reach me **haryacoub@gmail.com**
