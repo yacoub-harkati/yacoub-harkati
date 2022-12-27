@@ -4,7 +4,7 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 I'm Full-Stack Dev
 ------------------
 
-I am a full stack developer with a focus on the MERN stack (MongoDB, Express, React, and Node.js). I have been coding since 2020, I enjoy the process of taking a project from conception to deployment, and constantly strive to improve my skills and stay up-to-date with the latest trends in web development.
+with a focus on the MERN stack (MongoDB, Express, React, and Node.js). I have been coding since 2020, I enjoy the process of taking a project from conception to deployment, and constantly strive to improve my skills and stay up-to-date with the latest trends in web development.
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [@yacoub-harkati](mailto:@yacoub-harkati)
