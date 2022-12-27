@@ -1,5 +1,5 @@
 
-<p><img src="https://media.tenor.com/qA9u4ETE66MAAAAS/hello-there-kenobi.gif" width="100%" height="100%"/></p>
+<p align="center"><img src="https://media.tenor.com/qA9u4ETE66MAAAAS/hello-there-kenobi.gif"/></p>
 
 <h1 align="center"> I'm Yacoub A Full-Stack developer from Morocco</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yacoub-harkati&label=Profile%20views&color=0e75b6&style=flat" alt="yacoub-harkati" /> </p>
