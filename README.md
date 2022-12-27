@@ -1,14 +1,15 @@
-Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yacoub Harkati
-======================================================================================================================================
+<h1 align="center">Hi There! 👋, I'm Yacoub Harkati</h1>
+<h3 align="center">A Full-Stack developer from Morocco</h3>
 
-I'm Full-Stack Dev
-------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yacoub-harkati&label=Profile%20views&color=0e75b6&style=flat" alt="yacoub-harkati" /> </p>
 
-with a focus on the MERN stack (MongoDB, Express, React, and Node.js). I've been coding since 2020 and enjoy the process of taking a project from conception to deployment, and constantly strive to improve my skills and stay up-to-date with the latest trends in web development.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yacoub-harkati" alt="yacoub-harkati" /></a> </p>
 
-* 🌍  I'm based in Morocco
-* ✉️  You can contact me at [@yacoub-harkati](mailto:@yacoub-harkati)
-* ⚡  I'm secretly Spider Man but don't tell anyone else
+- 💬 Ask me about **React.js, Next.js, State Management, Back-end Dev & Solana**
+
+- 📫 How to reach me **haryacoub@gmail.com**
+
+- ⚡ Fun fact **I'm secretly Spider Man but don't tell anyone else**
 
 ### Skills
 
@@ -49,10 +50,10 @@ with a focus on the MERN stack (MongoDB, Express, React, and Node.js). I've been
 
 <p align="left"> <a href="https://discord.com/users/yacoub#7332" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/yacoub-harkati" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aboutyacoub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yacoub-harkati/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yacbb_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yacoub-harkati&show_icons=true&locale=en&layout=compact" alt="yacoub-harkati" /></p>
 
-<a href="http://www.github.com/yacoub-harkati"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yacoub-harkati&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yacoub-harkati&show_icons=true&locale=en" alt="yacoub-harkati" /></p>
 
-<a href="https://github.com/yacoub-harkati" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacoub-harkati&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yacoub-harkati&" alt="yacoub-harkati" /></p>
