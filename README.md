@@ -1,4 +1,4 @@
-<h1 align="center">Hi There! 👋, I'm Yacoub Harkati</h1>
+<h1 align="center">Hi There! 👋, I'm Yacoub</h1>
 <h2 align="center">A Full-Stack developer from Morocco</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yacoub-harkati&label=Profile%20views&color=0e75b6&style=flat" alt="yacoub-harkati" /> </p>
