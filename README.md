@@ -9,8 +9,6 @@
 
 -   ⚡ Fun fact **I'm secretly Spider Man but don't tell anyone else**
 
-### Skills
-
 ### Programming Languages
 
 <p align="left">
