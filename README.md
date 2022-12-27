@@ -51,11 +51,8 @@
 
 ### My GitHub Stats
 
-<div style="diplay: flex;">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yacoub-harkati&show_icons=true&locale=en&layout=compact" alt="yacoub-harkati" /></p>
 
-<p  style="flex: 1;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yacoub-harkati&show_icons=true&locale=en&layout=compact" alt="yacoub-harkati" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yacoub-harkati&show_icons=true&locale=en" alt="yacoub-harkati" /></p>
 
-<p  style="flex: 2;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yacoub-harkati&show_icons=true&locale=en" alt="yacoub-harkati" /></p>
-
-<p  style="flex: 1;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yacoub-harkati&" alt="yacoub-harkati" /></p>
-</div>
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yacoub-harkati&" alt="yacoub-harkati" /></p>
