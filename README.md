@@ -1,5 +1,5 @@
 <h1 align="center">Hi There! 👋, I'm Yacoub Harkati</h1>
-<h3 align="center">A Full-Stack developer from Morocco</h3>
+<h2 align="center">A Full-Stack developer from Morocco</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yacoub-harkati&label=Profile%20views&color=0e75b6&style=flat" alt="yacoub-harkati" /> </p>
 
@@ -75,10 +75,11 @@
 
 <p align="left"> <a href="https://discord.com/users/yacoub#7332" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/yacoub-harkati" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aboutyacoub" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yacoub-harkati/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yacbb_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### My GitHub Stats
+### GitHub Stats
 
-<p><img align="center" height="257px" src="https://github-readme-stats.vercel.app/api/top-langs?username=yacoub-harkati&show_icons=true&locale=en&layout=compact" alt="yacoub-harkati" /></p>
 
-<p>&nbsp;<img align="center"  height="257px" src="https://github-readme-stats.vercel.app/api?username=yacoub-harkati&show_icons=true&locale=en" alt="yacoub-harkati" /></p>
+<p><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=yacoub-harkati&show_icons=true&locale=en&layout=compact" alt="yacoub-harkati" /></p>
 
-<p ><img align="center"  height="257px" src="https://github-readme-streak-stats.herokuapp.com/?user=yacoub-harkati&" alt="yacoub-harkati" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yacoub-harkati&show_icons=true&locale=en" alt="yacoub-harkati" /></p>
+
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yacoub-harkati&" alt="yacoub-harkati" /></p>
