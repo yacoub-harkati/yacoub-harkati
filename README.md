@@ -8,7 +8,7 @@
 
 -   📫 How to reach me **haryacoub@gmail.com**
 
--   ⚡ Fun fact **I'm secretly Spider Man but don't tell anyone else**
+-   ⚡ Fun fact **I'm secretly a time traveler, but I'm still working on my time machine. It's tough to find good parts at the local hardware store.**
 
 <h3 align="center">Tech Stack</h3>
 
