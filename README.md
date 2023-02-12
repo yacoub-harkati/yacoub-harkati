@@ -1,13 +1,6 @@
 <p align="center"><img src="https://media.tenor.com/qA9u4ETE66MAAAAS/hello-there-kenobi.gif" width="70%"/></p>
 
-<h1 align="center"> I'm Yacoub a Full-Stack developer from Morocco</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yacoub-harkati&label=Profile%20views&color=0e75b6&style=flat" alt="yacoub-harkati" /> </p>
-
--   💬 Ask me about **React.js, Next.js, State Management, Back-end Dev & Solana**
-
--   📫 How to reach me **haryacoub@gmail.com**
-
--   ⚡ Fun fact **I'm secretly a time traveler, but I'm still working on my time machine. It's tough to find good parts at the local hardware store.**
 
 <h3 align="center">Tech Stack</h3>
 
