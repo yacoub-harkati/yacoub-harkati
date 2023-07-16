@@ -5,9 +5,11 @@
 <h3 align="center">Tech Stack</h3>
 
 ## 🧑‍💻 Current Technical Skills
+### ⌨️ Development
+>>>[![My Skills](https://skillicons.dev/icons?i=js,ts,c,py,rust)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,c,py,rust)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,bootstrap,materialui,redux,webpack,regex)](https://skillicons.dev)
+### 🖼️ Frontend
+>>> [![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,bootstrap,materialui,redux,webpack,regex)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,postman,linux,bash)](https://skillicons.dev)
 
 ## 🌱 Database
