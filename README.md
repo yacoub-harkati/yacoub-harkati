@@ -12,7 +12,7 @@
 
 ## Database
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,firebase,prisma,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,prisma,supabase)](https://skillicons.dev)
 
 ## Web3
 
@@ -22,7 +22,9 @@
 
 ## Socials
 
-<p align="left"> <a href="https://discord.com/users/yacoub#0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/yacoub-harkati/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <a href="https://www.twitter.com/yacub_sol" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/yacub_sol)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yacoub-harkati/)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/yacoub#0)
 
 ### GitHub Stats
 
