@@ -10,21 +10,23 @@
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,bootstrap,materialui,redux,webpack,regex)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,postman,linux,bash)](https://skillicons.dev)
 
-## Database
+## 🌱 Database
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,prisma,supabase)](https://skillicons.dev)
 
-## Web3
 
-<p align="left">
-<a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
-</p>
-
-## Socials
+## 🗣️ Socials
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/yacub_sol)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yacoub-harkati/)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/yacoub#0)
+
+
+## 🧑‍🚀 Web3
+
+<p align="left">
+<a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
+</p>
 
 ### GitHub Stats
 
