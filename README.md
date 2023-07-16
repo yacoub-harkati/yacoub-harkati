@@ -4,16 +4,10 @@
 
 <h3 align="center">Tech Stack</h3>
 
-## Programming Languages
+## 🧑‍💻 Current Technical Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,c,py,rust)](https://skillicons.dev)
-
-## Frontend Development
-
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,bootstrap,materialui,redux,webpack,regex)](https://skillicons.dev)
-
-## Backend Development
-
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,postman)](https://skillicons.dev)
 
 ## Database
