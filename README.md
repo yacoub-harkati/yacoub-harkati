@@ -1,5 +1,4 @@
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=yacoub-harkati&label=Profile%20views&color=478778&style=flat" alt="yacoub-harkati" /> </p>
-## 🧑‍💻 Current Technical Skills 
+## 🧑‍💻 Current Technical Skills <img src="https://komarev.com/ghpvc/?username=yacoub-harkati&label=Profile%20views&color=478778&style=flat" alt="yacoub-harkati" /> 
 
 #### ⌨️ Development
 [![My Skills](https://skillicons.dev/icons?i=js,ts,c,py,rust)](https://skillicons.dev)
