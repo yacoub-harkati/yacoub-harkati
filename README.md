@@ -16,7 +16,7 @@
 
 
 
-### 🦸‍♂️ GitHub Stats
+## 🦸‍♂️ GitHub Stats
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yacoub-harkati&show_icons=true&locale=en&layout=compact" alt="yacoub-harkati" /></p>
 
