@@ -14,14 +14,17 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,prisma,supabase)](https://skillicons.dev)
 
+
+
+### 🦸‍♂️ GitHub Stats
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yacoub-harkati&show_icons=true&locale=en&layout=compact" alt="yacoub-harkati" /></p>
+
+![snake gif](https://raw.githubusercontent.com/Niravprajapati1/Niravprajapati1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
 ## 🗣️ Socials
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/yacub_sol)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yacoub-harkati/)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/yacoub#0)
-
-### GitHub Stats
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yacoub-harkati&show_icons=true&locale=en&layout=compact" alt="yacoub-harkati" /></p>
-
-![snake gif](https://raw.githubusercontent.com/Niravprajapati1/Niravprajapati1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
