@@ -19,7 +19,3 @@
    
 </div>
 
-##
-![snake gif](https://raw.githubusercontent.com/Niravprajapati1/Niravprajapati1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-
