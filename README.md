@@ -24,8 +24,6 @@
 
 
 #### 🗣️ Socials
-<hr>
-
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/yacub_sol)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yacoub-harkati/)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/yacoub#0)
