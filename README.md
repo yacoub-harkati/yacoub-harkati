@@ -1,8 +1,5 @@
-<p align="center"><img src="https://media.tenor.com/qA9u4ETE66MAAAAS/hello-there-kenobi.gif" width="70%"/></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yacoub-harkati&label=Profile%20views&color=0e75b6&style=flat" alt="yacoub-harkati" /> </p>
-
 ## 🧑‍💻 Current Technical Skills
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=yacoub-harkati&label=Profile%20views&color=0e75b6&style=flat" alt="yacoub-harkati" /> </p>
 #### ⌨️ Development
 [![My Skills](https://skillicons.dev/icons?i=js,ts,c,py,rust)](https://skillicons.dev)
 #### 🖼️ Frontend
