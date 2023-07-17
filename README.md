@@ -14,8 +14,8 @@
 
 <div align="center">
     
-  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=yacoub-harkati&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacoub-harkati&layout=compact&langs_count=7&theme=tokyonight"/>
+ ![Stats Overview](https://raw.githubusercontent.com/yacoub-harkati/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/yacoub-harkati/github-stats-transparent/output/generated/languages.svg)
    
 </div>
 
