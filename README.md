@@ -13,7 +13,7 @@
 ## 🌱 Database
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,prisma,supabase)](https://skillicons.dev)
-##
+## 🦸‍♂️ GitHub Stats
 
 <div align="center">
     
@@ -22,9 +22,6 @@
    
 </div>
 
-## 🦸‍♂️ GitHub Stats
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yacoub-harkati&show_icons=true&locale=en&layout=compact" alt="yacoub-harkati" /></p>
 
 ![snake gif](https://raw.githubusercontent.com/Niravprajapati1/Niravprajapati1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
