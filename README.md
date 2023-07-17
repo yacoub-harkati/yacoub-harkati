@@ -1,3 +1,4 @@
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=yacoub-harkati&label=Profile%20views&color=478778&style=flat" alt="yacoub-harkati" /> </p>
 ## 🧑‍💻 Current Technical Skills 
 
 #### ⌨️ Development
@@ -19,4 +20,4 @@
    
 </div>
 
-<p align="center" > <img src="https://komarev.com/ghpvc/?username=yacoub-harkati&label=Profile%20views&color=478778&style=flat" alt="yacoub-harkati" /> </p>
+
