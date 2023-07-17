@@ -7,7 +7,7 @@
 #### ⌨️ Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,postman,linux,bash)](https://skillicons.dev)
 
-## 🌱 Database
+## 🌱 Databases
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,prisma,supabase)](https://skillicons.dev)
 ## 🦸‍♂️ GitHub Stats
