@@ -14,9 +14,9 @@
 
 <div align="center">
     
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yacoub-harkati&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true)]
+<span>![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yacoub-harkati&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true)
     
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=yacoub-harkati&layout=compact&langs_count=7&theme=codeSTACKr)]
+<span>![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=yacoub-harkati&layout=compact&langs_count=7&theme=codeSTACKr)
    
 </div>
 
