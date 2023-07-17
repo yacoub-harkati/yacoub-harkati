@@ -24,4 +24,4 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yacoub-harkati&show_icons=true&locale=en&layout=compact" alt="yacoub-harkati" /></p>
 
-<p ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=yacoub-harkati&" alt="yacoub-harkati" /></p>
+![snake gif](https://github.com/yacoub-harkati/yacoub-harkati/blob/output/github-contribution-grid-snake.gif)
