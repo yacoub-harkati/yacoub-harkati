@@ -1,5 +1,5 @@
 ### Greetings, traveler
-Out of all the places you could be on the internet, you have stumbled upon my GitHub profile. Whether you it's chance or arrived here with a purpose, I hope you enjoy your stay.
+Out of all the places you could be on the internet, you have stumbled upon my GitHub profile. Whether it was by chance or arrived here with a purpose, I hope you enjoy your stay.
 
 Feel free to explore my projects, you might discover something that you find useful or that inspires you to build.
 
