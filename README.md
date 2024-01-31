@@ -10,13 +10,13 @@ Feel free to explore my projects. You might discover something that you find use
 </div>
 
 #### Development
-[![My Skills](https://skillicons.dev/icons?i=js,ts,c,py,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,c,py,rust,bash)](https://skillicons.dev)
 
 #### Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,bootstrap,materialui,redux,webpack,regex)](https://skillicons.dev)
 
 #### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,postman,linux,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,postman,linux)](https://skillicons.dev)
 
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,prisma,supabase)](https://skillicons.dev)
