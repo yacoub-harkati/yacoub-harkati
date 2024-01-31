@@ -23,6 +23,7 @@ Feel free to explore my projects. You might discover something that you find use
 
 <div align="center">
     <h3>GitHub Stats</h3>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yacoub-harkati&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt=""/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacoub-harkati&layout=compact&langs_count=7&theme=dark" alt=""/>
+
+[![GitHub Stats](https://myreadme.vercel.app/api/embed/yacoub-harkati?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/yacoub-harkati)
+
 </div>
