@@ -6,7 +6,7 @@ Feel free to explore my projects. You might discover something that you find use
 
 <div align="center">
     <h3>Current Tech Stack</h3>
-    <img src="https://komarev.com/ghpvc/?username=yacoub-harkati&label=Profile%20views&color=00308F&style=flat" alt="yacoub-harkati" />
+    <img src="https://komarev.com/ghpvc/?username=yacoub-harkati&label=Profile%20views&color=242938&style=flat" alt="yacoub-harkati" />
 </div>
 
 #### Development
