@@ -20,10 +20,3 @@ Feel free to explore my projects. You might discover something that you find use
 
 #### Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,prisma,supabase)](https://skillicons.dev)
-
-<div align="center">
-    <h3>GitHub Stats</h3>
-
-[![GitHub Stats](https://myreadme.vercel.app/api/embed/yacoub-harkati?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/yacoub-harkati)
-
-</div>
